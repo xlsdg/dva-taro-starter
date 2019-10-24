@@ -1,0 +1,15 @@
+/config
+
+# dependencies
+/node_modules
+
+# production
+/dist
+/public
+
+# misc
+.DS_Store
+
+# IDE
+.idea
+.vscode
